@@ -1,0 +1,261 @@
+user_id,final_top5,Hit@1,Hit@5,NDCG@5,ILD@5,PerUserPersonalization,Personalization
+1,"['Paper', 'The (1994)', 'Addiction', 'The (1995)', 'Fear of a Black Hat (1993)']",0,0,0.0,0.9667,0.0,0.9974
+2,"['Two if by Sea (1996)', 'Leave It to Beaver (1997)', 'Tin Cup (1996)', 'My Family (1995)', 'Brothers McMullen']",0,1,0.5,0.9857,1.0,0.9974
+3,"['Conspiracy Theory (1997)', 'Swingers (1996)', 'Money Train (1995)', 'Other Voices', 'Other Rooms (1997)']",1,1,1.0,0.955,1.0,0.9974
+4,"['Lost Highway (1997)', 'Afterglow (1997)', 'Time to Kill', 'A (1996)', 'Meet Wally Sparks (1997)']",1,1,1.0,0.9383,1.0,0.9974
+5,"['The Maltese Falcon (1941)', 'The Long Kiss Goodnight (1996)', 'Liar Liar (1997)', 'Boys on the Side (1995)', 'The Crow: City of Angels (1996)']",0,0,0.0,0.9206,1.0,0.9974
+6,"['To Kill a Mockingbird (1962)', 'Glimmer Man', 'The (1996)', 'Only You (1994)', 'Junior (1994)']",1,1,1.0,0.975,1.0,0.9974
+7,"['Day the Earth Stood Still', 'The (1951)', 'Local Hero (1983)', 'This Is Spinal Tap (1984)', 'Breakdown (1997)']",0,0,0.0,0.9833,1.0,0.9974
+8,"['The Ice Storm (1997)', 'Full Metal Jacket (1987)', 'All About Eve (1950)', 'Akira (1988)', 'The Machine (1994)']",0,1,0.6309,0.9833,1.0,0.9974
+9,"['Notorious (1946)', ""Breakfast at Tiffany's (1961)"", 'True Lies (1994)', 'Akira (1988)', 'Secret Garden']",0,1,0.5,1.0,0.9861,0.9974
+10,"[""Devil's Advocate"", 'The (1997)', 'Unforgiven (1992)', 'True Crime (1995)', 'Scream (1996)']",0,1,0.5,1.0,1.0,0.9974
+11,"['Queen Margot (Reine Margot', 'La) (1994)', 'Shadow Conspiracy (1997)', 'My Favorite Season (1993)', 'Black Beauty (1994)']",0,0,0.0,0.975,1.0,0.9974
+12,"['The Lion King (1994)', 'When a Man Loves a Woman (1994)', 'Con Air (1997)', 'M*A*S*H (1970)', 'Stealing Beauty (1996)']",0,0,0.0,0.9889,1.0,0.9974
+13,"['Dave (1993)', 'Some Folks Call It a Sling Blade (1993)', 'Fresh (1994)', 'Bio-Dome (1996)', ""Joe's Apartment (1996)""]",1,1,1.0,0.9639,1.0,0.9974
+14,"['Secret of Roan Inish', 'Orlando (1993)', 'Wings of Desire (1987)', 'Mother (1996)', 'Kolya (1996)']",0,1,0.3869,0.9524,1.0,0.9974
+15,"['Fall (1997)', 'Ridicule (1996)', 'The Big One (1997)', 'The Funeral (1996)', 'Happy Gilmore (1996)']",0,0,0.0,0.8933,1.0,0.9974
+16,"['Raging Bull (1980)', 'The Birds (1963)', 'Star Trek: Generations (1994)', 'Mediterraneo (1991)', 'Johnny Mnemonic (1995)']",0,0,0.0,1.0,1.0,0.9974
+17,"['Fargo (1996)', 'Dragonheart (1996)', 'Man Who Knew Too Little', 'The (1997)', 'Wonderland (1997)']",1,1,1.0,0.9333,0.9931,0.9974
+18,"['Love! Valour! Compassion! (1997)', 'Rosencrantz and Guildenstern Are Dead (1990)', 'Priest (1994)', 'Maybe', 'Maybe Not (Bewegte Mann']",0,1,0.5,0.975,1.0,0.9974
+19,"['Groundhog Day (1993)', 'Batman (1989)', 'Chinatown (1974)', '2001: A Space Odyssey (1968)', 'American Buffalo (1996)']",1,1,1.0,1.0,1.0,0.9974
+20,"['Star Wars (1977)', 'The People vs. Larry Flynt (1996)', 'Con Air (1997)', 'The Getaway (1994)', ""Fathers' Day (1997)""]",1,1,1.0,0.9675,0.9942,0.9974
+21,"['Hunt for Red October', 'The (1990)', 'Diabolique (1996)', 'Star Trek IV: The Voyage Home (1986)', 'Bridges of Madison County']",0,1,0.5,0.9875,1.0,0.9974
+22,"['Godfather: Part II', 'The (1974)', 'Van', 'The (1996)', 'Paper']",0,0,0.0,0.9667,0.9894,0.9974
+23,"['City of Angels (1998)', 'Death in Brunswick (1991)', 'Michael Collins (1996)', 'Moll Flanders (1996)', 'Judgment Night (1993)']",0,0,0.0,0.98,1.0,0.9974
+24,"['Hana-bi (1997)', 'Psycho (1960)', 'Restoration (1995)', 'The Journey of August King (1995)', 'Race the Sun (1996)']",0,0,0.0,0.9746,1.0,0.9974
+25,"['Arrival', 'The (1996)', 'Bound (1996)', 'Virtuosity (1995)', 'The Mirror Has Two Faces (1996)']",0,0,0.0,0.919,0.9907,0.9974
+26,"['Smoke (1995)', 'Eraser (1996)', 'Swimming with Sharks (1995)', 'Kissed (1996)', ""Bram Stoker's Dracula (1992)""]",0,1,0.6309,0.9467,1.0,0.9974
+27,"['Wild Things (1998)', 'Two Deaths (1995)', 'Firestorm (1998)', 'To Wong Foo', 'Thanks for Everything! Julie Newmar (1995)']",0,0,0.0,0.9625,1.0,0.9974
+28,"['North by Northwest (1959)', 'The Birdcage (1996)', 'Mallrats (1995)', ""I Don't Want to Talk About It (De eso no se habla) (1993)"", 'My Favorite Season (1993)']",1,1,1.0,0.9938,0.9959,0.9974
+29,"['Kiss the Girls (1997)', 'Crimson Tide (1995)', 'Get on the Bus (1996)', 'Daens (1992)', 'Hear My Song (1991)']",1,1,1.0,0.9875,1.0,0.9974
+30,"['The Rainmaker (1997)', 'It Happened One Night (1934)', 'Butch Cassidy and the Sundance Kid (1969)', 'Homeward Bound II: Lost in San Francisco (1996)', 'Extreme Measures (1996)']",0,1,0.5,0.9789,1.0,0.9974
+31,"['Indiana Jones and the Last Crusade', 'Some Kind of Wonderful', 'Happy Gilmore', 'My Fellow Americans', ""She's So Lovely""]",0,0,0.0,1.0,1.0,0.9974
+32,"['Total Eclipse (1995)', 'GoldenEye (1995)', 'Kolya (1996)', 'When Night Is Falling (1995)', 'Rock']",0,0,0.0,0.944,0.9964,0.9974
+33,"['Jackie Brown (1997)', 'Alien: Resurrection (1997)', 'Interview with the Vampire (1994)', 'The Abyss (1989)', 'Sleepless in Seattle (1993)']",0,1,0.6309,0.9657,1.0,0.9974
+34,"['Heat (1995)', 'Restoration (1995)', 'La Cérémonie', 'The Winter Guest (1997)', 'Geronimo: An American Legend (1993)']",0,0,0.0,0.9667,0.9966,0.9974
+35,"[""Devil's Advocate"", 'Full Monty', 'Air Bud (1997)', 'The (1997)', 'Welcome To Sarajevo (1997)']",0,1,0.5,0.9383,0.9894,0.9974
+36,"['M. Butterfly (1993)', 'Natural Born Killers (1994)', 'Manhattan Murder Mystery (1993)', 'Ghost and the Darkness', 'The (1996)']",0,0,0.0,0.9633,0.9905,0.9974
+37,"['The Glimmer Man (1996)', 'Screamers (1995)', 'Loch Ness (1995)', 'Welcome To Sarajevo (1997)', 'Being There (1979)']",0,0,0.0,0.975,0.9969,0.9974
+38,"['Event Horizon (1997)', ""Dante's Peak (1997)"", 'Grifters', 'The (1990)', ""Robert Defoe's Robinson Crusoe (1996)""]",0,0,0.0,0.98,0.997,0.9974
+39,"['Titanic (1997)', 'The Sting (1973)', 'Witness (1985)', 'Loch Ness (1995)', 'The Big Squeeze (1996)']",1,1,1.0,0.9833,0.9971,0.9974
+40,"['The Full Monty (1997)', 'U.S. Marshalls (1998)', 'Boys (1996)', 'Beyond Rangoon (1995)', 'Return of the Pink Panther']",0,0,0.0,0.9875,1.0,0.9974
+41,"['Paris', 'Texas (1984)', 'The Apartment (1960)', 'Return of the Jedi (1983)', 'Wild Reeds (1994)']",0,1,0.4307,0.9857,1.0,0.9974
+42,"['Once Upon a Time in America (1984)', ""What's Love Got to Do with It (1993)"", 'The Grifters (1990)', 'The Band Wagon (1953)', 'Hoop Dreams (1994)']",0,1,0.3869,0.9833,1.0,0.9974
+43,"['Amistad (1997)', 'The Peacemaker (1997)', 'One Fine Day (1996)', 'Broken English (1996)', 'Van']",0,0,0.0,0.9583,0.9974,0.9974
+44,"['Young Guns (1988)', ""Roseanna's Grave (For Roseanna) (1997)"", 'Murder', 'My Sweet (1944)', 'A Streetcar Named Desire (1951)']",0,0,0.0,1.0,1.0,0.9974
+45,"['That Thing You Do! (1996)', 'A Thin Line Between Love and Hate (1996)', 'Tomorrow Never Dies (1997)', 'The Boys (1996)', 'The Leopard Son (1996)']",1,1,1.0,0.9058,1.0,0.9974
+46,"[""Eve's Bayou (1997)"", 'Twister (1996)', 'Cop Land (1997)', 'The Man Without a Face (1993)', 'Butch Cassidy and the Sundance Kid (1969)']",0,1,0.5,0.9717,0.9975,0.9974
+47,"['Afterglow (1997)', 'L.A. Confidential (1997)', 'Fried Green Tomatoes (1991)', 'Threesome (1994)', 'Davy Crockett']",0,0,0.0,0.975,0.9976,0.9974
+48,"['My Fair Lady (1964)', 'Monty Python and the Holy Grail (1974)', 'Taxi Driver (1976)', ""Mr. Holland's Opus (1995)"", 'Star Trek: The Motion Picture (1979)']",0,0,0.0,0.9917,1.0,0.9974
+49,"[""Muriel's Wedding (1994)"", 'Addams Family Values (1993)', 'One Fine Day (1996)', 'Mr. Wonderful (1993)', 'Restoration (1995)']",0,1,0.6309,0.9833,0.9931,0.9974
+50,"['Jean de Florette (1986)', 'The Professional (1994)', 'Swept from the Sea (1997)', 'Til There Was You (1997)', 'Indian in the Cupboard']",0,0,0.0,0.9454,1.0,0.9974
+51,"['Stand by Me (1986)', 'Patton (1970)', 'That Old Feeling (1997)', 'Newton Boys', 'The (1998)']",1,1,1.0,1.0,1.0,0.9974
+52,"['Sunset Blvd. (1950)', 'Searching for Bobby Fischer (1993)', 'Daens (1992)', 'Lost Horizon (1937)', 'A Chef in Love (1996)']",0,0,0.0,1.0,0.9978,0.9974
+53,"['Shall We Dance? (1996)', 'Bringing Up Baby (1938)', 'Get Shorty (1995)', 'Event Horizon (1997)', 'Twelve Monkeys (1995)']",0,1,0.3869,0.98,0.9979,0.9974
+54,"['The Lion King (1994)', 'The Saint (1997)', ""Eve's Bayou (1997)"", 'A Simple Twist of Fate (1994)', 'The Secret Garden (1993)']",0,0,0.0,0.9213,0.9958,0.9974
+55,"['Get Shorty (1995)', 'GoldenEye (1995)', 'Con Air (1997)', 'Space Jam (1996)', 'Stripes (1981)']",0,1,0.5,0.975,0.9918,0.9974
+56,"['Beautiful Girls (1996)', 'Homeward Bound II: Lost in San Francisco (1996)', 'Cable Guy', 'The (1996)', 'Powder (1995)']",0,0,0.0,0.9539,0.9899,0.9974
+57,"['Love Is All There Is (1996)', 'Dead Presidents (1995)', 'Hackers (1995)', 'Cérémonie', 'La (1995)']",0,0,0.0,0.9167,1.0,0.9974
+58,"['The Shining (1980)', 'Some Kind of Wonderful (1987)', 'Ballad of Narayama', 'The (Narayama Bushiko) (1958)', ""I'll Do Anything (1994)""]",0,0,0.0,0.969,1.0,0.9974
+67,"['Swingers (1996)', 'Hackers (1995)', 'French Kiss (1995)', 'Mrs. Winterbourne (1996)', ""National Lampoon's Senior Trip (1995)""]",0,0,0.0,0.919,0.9962,0.9974
+68,"['Nikita (La Femme Nikita) (1990)', 'Star Wars (1977)', 'Crossing Guard', 'The (1995)', 'Mark of Zorro']",0,1,0.6309,1.0,0.9962,0.9974
+76,"['Before Sunrise (1995)', 'Trial and Error (1997)', 'Absolute Power (1997)', 'Wild Reeds (1994)', 'Angela (1995)']",1,1,1.0,0.9583,0.9981,0.9974
+77,"['Don Juan DeMarco (1995)', 'When a Man Loves a Woman (1994)', 'Diabolique (1996)', 'Feast of July (1995)', 'Clueless (1995)']",1,1,1.0,0.9457,0.9964,0.9974
+78,"['Manhattan Murder Mystery (1993)', 'Men in Black (1997)', 'The Chamber (1996)', 'Field of Dreams (1989)', 'Tin Cup (1996)']",0,1,0.6309,0.98,0.9964,0.9974
+79,"['Emma (1996)', 'Short Cuts (1993)', 'Three Wishes (1995)', 'Broken English (1996)', 'The Great Race (1965)']",1,1,1.0,0.975,0.9982,0.9974
+80,"['Bridge on the River Kwai', 'The (1957)', 'Carrie (1976)', 'War at Home', 'Murder in the First (1995)']",0,0,0.0,0.9556,1.0,0.9974
+81,"['Titanic (1997)', 'Gandhi (1982)', 'Bad Boys (1995)', 'Fear', 'Fair Game (1995)']",0,0,0.0,0.98,0.9983,0.9974
+82,"['The River Wild (1994)', 'Tin Men (1987)', 'Lamerica (1994)', 'Golden Earrings (1947)', ""April Fool's Day (1986)""]",0,0,0.0,0.98,1.0,0.9974
+83,"['Manhattan Murder Mystery (1993)', 'Pretty Woman (1990)', 'High School High (1996)', 'Hackers (1995)', 'Star Trek VI: The Undiscovered Country (1991)']",0,1,0.6309,1.0,0.9934,0.9974
+84,"['Quiz Show (1994)', 'As Good As It Gets (1997)', 'Michael Collins (1996)', 'Something to Talk About (1995)', 'Before the Rain (Pred dozhdot) (1994)']",0,1,0.5,0.9875,0.9984,0.9974
+86,"['Contact (1997)', 'The Chamber (1996)', 'I Shot Andy Warhol (1996)', 'Hellraiser: Bloodline (1996)', ""Robert A. Heinlein's The Puppet Masters (1994)""]",1,1,1.0,0.9403,0.9984,0.9974
+87,"['Indiana Jones and the Last Crusade (1989)', 'Toy Story (1995)', 'Lion King', 'The (1994)', 'Cable Guy']",1,1,1.0,0.9875,0.9968,0.9974
+88,"[""Ulee's Gold (1997)"", 'The Postman (1997)', 'Beverly Hills Ninja (1997)', 'To Gillian on Her 37th Birthday (1996)', 'The Object of My Affection (1998)']",0,0,0.0,0.9342,1.0,0.9974
+89,"['Leaving Las Vegas (1995)', 'The American President (1995)', 'One Fine Day (1996)', 'Faithful (1996)', 'Love and Other Catastrophes (1996)']",0,1,0.5,0.9365,0.9969,0.9974
+90,"['Dave (1993)', 'Anaconda (1997)', 'Office Killer (1997)', 'Fear (1996)', 'Star Maps (1997)']",1,1,1.0,0.93,0.9985,0.9974
+91,"['Dead Poets Society (1989)', 'The Big Sleep (1946)', 'Restoration (1995)', 'Germinal (1993)', 'Yankee Zulu (1994)']",0,0,0.0,1.0,0.9955,0.9974
+92,"['A Chef in Love (1996)', 'Family Thing', 'A (1996)', 'My Favorite Season (1993)', 'Homeward Bound: The Incredible Journey (1993)']",0,0,0.0,0.9489,0.9941,0.9974
+93,"['Matilda (1996)', ""Ulee's Gold (1997)"", 'Conspiracy Theory (1997)', 'Operation Dumbo Drop (1995)', 'Nine Months (1995)']",1,1,1.0,0.9633,0.9971,0.9974
+94,"['Bound (1996)', ""Some Mother's Son (1996)"", 'Twister (1996)', 'The Ghost and the Darkness (1996)', 'Police Story 4: Project S (Chao ji ji hua) (1993)']",0,1,0.5,0.8808,0.9971,0.9974
+95,"['Cinema Paradiso (1988)', 'Passion Fish (1992)', ""Roseanna's Grave (For Roseanna) (1997)"", 'Grass Harp', 'The (1995)']",1,1,1.0,1.0,0.9957,0.9974
+96,"['The Philadelphia Story (1940)', 'Angel on My Shoulder (1946)', 'S.F.W. (1994)', 'Angel Baby (1995)', 'Boys Life (1995)']",0,0,0.0,0.9657,1.0,0.9974
+97,"['The Silence of the Lambs (1991)', 'The Wild Bunch (1969)', 'Paths of Glory (1957)', 'Operation Dumbo Drop (1995)', 'When a Man Loves a Woman (1994)']",0,0,0.0,0.975,0.9958,0.9974
+98,"['M*A*S*H (1970)', 'The Garden of Finzi-Contini (Giardino dei Finzi-Contini', 'Il) (1970)', 'If Lucy Fell (1996)', 'With Honors (1994)']",1,1,1.0,0.9667,0.9986,0.9974
+99,"['Fly Away Home (1996)', 'Wedding Singer', 'The (1998)', 'Stargate (1994)', 'Threesome (1994)']",0,0,0.0,0.9667,0.9973,0.9974
+100,"[""Ulee's Gold (1997)"", 'Wild Things (1998)', 'Phantoms (1998)', 'Stars Fell on Henrietta', 'The (1995)']",0,1,0.5,0.975,0.992,0.9974
+101,"['Faithful (1996)', 'A Very Brady Sequel (1996)', 'Twister (1996)', 'Star Trek: The Wrath of Khan (1982)', 'Rocket Man (1997)']",0,0,0.0,0.9333,0.996,0.9974
+102,"[""Marvin's Room"", 'Star Trek: The Motion Picture', 'No Escape', 'Crooklyn', 'Foreign Student']",0,0,0.0,1.0,1.0,0.9974
+103,"['Courage Under Fire (1996)', 'Young Guns II (1990)', 'The Big Sleep', 'The (1946)', 'One Night Stand (1997)']",1,1,1.0,0.975,1.0,0.9974
+104,"['Birdcage', 'The (1996)', 'Angus (1995)', 'A Goofy Movie (1995)', 'Original Gangstas (1996)']",0,0,0.0,0.955,0.9936,0.9974
+105,"[""Devil's Advocate"", 'The (1997)', 'Braveheart (1995)', 'Conspiracy Theory (1997)', 'Leading Man']",0,0,0.0,0.975,0.9905,0.9974
+106,"['English Patient', 'The (1996)', 'Cape Fear (1991)', 'Unforgettable (1996)', '2 Days in the Valley (1996)']",0,0,0.0,0.919,0.9925,0.9974
+107,"['Postman', 'The (1997)', 'Murder at 1600 (1997)', 'Specialist', 'Next Karate Kid']",0,1,0.5,0.98,0.9951,0.9974
+108,"['Tom & Viv (1994)', 'Fly Away Home (1996)', 'Afterglow (1997)', 'Hana-bi (1997)', 'Mrs. Doubtfire (1993)']",0,1,0.6309,0.9667,0.9951,0.9974
+109,"['Godfather: Part II', 'The (1974)', 'Donnie Brasco (1997)', 'Glory (1989)', ""Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)""]",0,0,0.0,0.9938,0.9973,0.9974
+110,"['Speechless (1994)', 'Milk Money (1994)', 'My Favorite Season (1993)', 'Love Affair (1994)', 'Time Tracers (1995)']",0,1,0.6309,0.93,0.9964,0.9974
+111,"['The Full Monty (1997)', ""One Flew Over the Cuckoo's Nest (1975)"", 'Temptress Moon (Feng Yue) (1996)', 'Down by Law (1986)', 'The Horseman on the Roof']",0,0,0.0,0.9657,0.9988,0.9974
+112,"['Breakdown (1997)', 'Manhattan Murder Mystery (1993)', 'Henry V (1989)', 'Death and the Maiden (1994)', 'Bottle Rocket (1996)']",0,0,0.0,1.0,0.9953,0.9974
+113,"['Rosewood (1997)', 'Island of Dr. Moreau', 'The (1996)', 'Madness of King George', 'The (1994)']",1,1,1.0,0.9524,0.9896,0.9974
+114,"['Silence of the Lambs', 'The (1991)', 'Fugitive', 'The (1993)', 'While You Were Sleeping (1995)']",0,0,0.0,0.9267,1.0,0.9974
+115,"['12 Angry Men (1957)', 'Three Colors: Blue (1993)', 'Swingers (1996)', 'Powder (1995)', 'Georgia (1995)']",1,1,1.0,0.9667,0.9966,0.9974
+116,"['The Fifth Element (1997)', 'Vampire in Brooklyn (1995)', 'The Browning Version (1994)', 'The Bridges of Madison County (1995)', 'Hurricane Streets (1998)']",0,0,0.0,0.9524,1.0,0.9974
+117,"[""Devil's Advocate"", 'The (1997)', 'Drop Zone (1994)', 'Kids in the Hall: Brain Candy (1996)', 'To Gillian on Her 37th Birthday (1996)']",0,0,0.0,0.9798,0.9892,0.9974
+118,"['Paths of Glory (1957)', 'The Quiet Man (1952)', 'Last Man Standing (1996)', 'Philadelphia (1993)', 'Albino Alligator (1996)']",1,1,1.0,0.969,0.9989,0.9974
+119,"['Something to Talk About (1995)', 'Twisted (1996)', 'Country Life (1994)', 'Life with Mikey (1993)', 'Wonderful']",0,0,0.0,0.9833,0.9989,0.9974
+120,"['The Postman (1997)', 'The People vs. Larry Flynt (1996)', 'True Romance (1993)', 'King of New York (1990)', 'It Happened One Night (1934)']",0,0,0.0,0.9875,0.9968,0.9974
+121,"['The Bridge on the River Kwai (1957)', 'Sunset Blvd. (1950)', 'A Thousand Acres (1997)', 'Bent (1997)', 'Jumanji (1995)']",0,0,0.0,0.98,0.9989,0.9974
+122,"['E.T. the Extra-Terrestrial (1982)', 'Better Off Dead... (1985)', 'Robin Hood: Men in Tights (1993)', ""Mr. Holland's Opus (1995)"", ""Things to Do in Denver when You're Dead (1995)""]",1,1,1.0,0.9845,0.9989,0.9974
+123,"['Crying Game', 'The (1992)', 'Frankie Starlight (1995)', 'Wings of Desire (1987)', 'Speechless (1994)']",0,0,0.0,1.0,0.9979,0.9974
+124,"['The Fugitive (1993)', 'A Life Less Ordinary (1997)', 'The Age of Innocence (1993)', 'Once Were Warriors (1994)', 'The Journey of August King (1995)']",0,0,0.0,0.9319,0.999,0.9974
+125,"['Sunset Blvd. (1950)', ""Breakfast at Tiffany's (1961)"", ""Brother's Kiss"", 'A (1997)', '2 Days in the Valley (1996)']",0,0,0.0,1.0,0.9959,0.9974
+126,"['Eraser (1996)', 'The Ghosts of Mississippi (1996)', 'The Wings of the Dove (1997)', 'The Mirror Has Two Faces (1996)', 'First Knight (1995)']",0,0,0.0,0.9118,0.998,0.9974
+127,"['Scream (1996)', 'From Dusk Till Dawn (1996)', 'The Craft (1996)', 'Carpool (1996)', 'Witness (1985)']",1,1,1.0,0.869,0.998,0.9974
+128,"['Grease 2 (1982)', 'The Glimmer Man (1996)', 'Face/Off (1997)', 'Young Guns (1988)', 'Angels and Insects (1995)']",0,0,0.0,1.0,0.998,0.9974
+129,"['Midnight in the Garden of Good and Evil (1997)', 'Switchback (1997)', 'Kiss Me', 'Guido (1997)', 'Harlem (1993)']",0,0,0.0,0.9467,1.0,0.9974
+130,"['Red Corner (1997)', 'Man in the Iron Mask', 'The (1998)', 'Nutty Professor', 'The (1996)']",0,0,0.0,0.9333,0.9902,0.9974
+131,"['Annie Hall (1977)', 'The Ghost and the Darkness (1996)', 'Kolya (1996)', 'Safe (1995)', ""She's So Lovely (1997)""]",0,1,0.5,0.9833,0.9971,0.9974
+132,"['Shall We Dance? (1996)', 'English Patient', 'Twister (1996)', 'Foxfire (1996)', 'Trigger Effect']",1,1,1.0,0.9267,0.9952,0.9974
+133,"['The Chamber (1996)', 'Don Juan DeMarco (1995)', 'Speechless (1994)', 'Brassed Off (1996)', 'Jungle2Jungle (1997)']",0,1,0.3869,0.98,0.9952,0.9974
+134,"['Liar Liar (1997)', 'Les Boys (1997)', 'Mulholland Falls (1996)', 'The Mirror Has Two Faces (1996)', 'Anna (1996)']",1,1,1.0,0.9232,0.9972,0.9974
+135,"['Bad Boys (1995)', 'Contact (1997)', '2 Days in the Valley (1996)', 'How to Be a Player (1997)', 'Reckless (1995)']",0,1,0.6309,0.9607,0.9962,0.9974
+136,"['Mother Night (1996)', 'The Crucible (1996)', 'Michael Collins (1996)', 'Return of Martin Guerre', 'The (Retour de Martin Guerre']",0,1,0.5,0.8971,0.9981,0.9974
+137,"['Legends of the Fall (1994)', 'The Getaway (1994)', 'Highlander III: The Sorcerer (1994)', 'In the Army Now (1994)', 'War']",1,1,1.0,0.825,0.9991,0.9974
+138,"['Being There (1979)', ""Miller's Crossing (1990)"", 'Dead Presidents (1995)', ""Someone Else's America (1995)"", 'Bob Roberts (1992)']",0,1,0.6309,0.9833,0.9982,0.9974
+139,"['Godfather', 'The (1972)', 'Dolores Claiborne (1994)', 'Psycho (1960)', 'Raising Arizona (1987)']",0,0,0.0,1.0,0.9991,0.9974
+140,"['Anna Karenina (1997)', 'Delicatessen (1991)', 'Mother (1996)', 'Mars Attacks! (1996)', 'Grifters']",0,1,0.5,0.975,0.9982,0.9974
+141,"['Love! Valour! Compassion! (1997)', 'The Sum of Us (1994)', 'Rudy (1993)', 'Scream 2 (1997)', 'How to Be a Player (1997)']",0,1,0.3869,0.9597,0.9982,0.9974
+142,"['George of the Jungle (1997)', 'Natural Born Killers (1994)', 'Crow', 'The (1994)', 'Raise the Red Lantern (1991)']",1,1,1.0,0.9356,0.9964,0.9974
+143,"['Scream (1996)', 'Man in the Iron Mask', 'The (1998)', 'If Lucy Fell (1996)', 'Love Serenade (1996)']",1,1,1.0,0.9217,0.9936,0.9974
+144,"['My Left Foot (1989)', 'Monty Python and the Holy Grail (1974)', 'Time to Kill', 'A (1996)', 'Loch Ness (1995)']",0,0,0.0,1.0,0.9945,0.9974
+145,"['Red Corner (1997)', 'Fled (1996)', 'Manny & Lo (1996)', 'Rumble in the Bronx (1995)', 'Conan the Barbarian (1981)']",1,1,1.0,0.9675,0.9991,0.9974
+146,"['True Lies (1994)', 'Leave It to Beaver (1997)', ""I'm Not Rappaport (1996)"", 'Caught (1996)', 'Brother Minister: The Assassination of Malcolm X (1994)']",0,1,0.6309,0.97,0.9983,0.9974
+147,"['Boogie Nights (1997)', 'Braveheart (1995)', 'Pretty Woman (1990)', 'Til There Was You (1997)', 'In the Bleak Midwinter (1995)']",1,1,1.0,0.969,0.9974,0.9974
+148,"['Rear Window (1954)', 'Rob Roy (1995)', 'First Knight (1995)', 'Crossing Guard', 'The (1995)']",0,1,0.6309,0.93,0.9947,0.9974
+149,"['Jackie Brown (1997)', 'The Usual Suspects (1995)', 'Bent (1997)', 'Bulletproof (1996)', 'Fire on the Mountain (1996)']",1,1,1.0,0.9458,0.9983,0.9974
+150,"['The People vs. Larry Flynt (1996)', 'Bound (1996)', 'Duoluo tianshi (1995)', 'Richard III (1995)', 'The Joy Luck Club (1993)']",0,1,0.6309,0.9557,0.9967,0.9974
+151,"['Sleepers (1996)', 'Rosewood (1997)', 'Caro Diario (Dear Diary) (1994)', 'Bread and Chocolate (Pane e cioccolata) (1973)', 'Cat People (1982)']",1,1,1.0,1.0,0.9992,0.9974
+152,"['If Lucy Fell', 'Circle of Friends', 'Die Hard', 'Exotica', 'Assassins']",0,0,0.0,1.0,1.0,0.9974
+153,"['The Deer Hunter (1978)', 'The Hunt for Red October (1990)', 'The Last of the Mohicans (1992)', 'Ghost (1990)', 'A Damsel in Distress (1937)']",0,0,0.0,0.9521,1.0,0.9974
+154,"['Titanic (1997)', 'Trainspotting (1996)', 'The Secret Agent (1996)', 'Nell (1994)', 'Body Snatchers (1993)']",0,1,0.6309,0.98,0.9984,0.9974
+155,"['Liar Liar (1997)', 'Second Jungle Book: Mowgli & Baloo', 'The (1997)', 'Truth or Consequences', 'N.M. (1997)']",1,1,1.0,0.9,0.9936,0.9974
+156,"['Strawberry and Chocolate (Fresa y chocolate) (1993)', 'Leaving Las Vegas (1995)', ""Nobody's Fool (1994)"", 'While You Were Sleeping (1995)', 'Boys on the Side (1995)']",0,1,0.6309,0.9639,0.9976,0.9974
+157,"['English Patient', 'The (1996)', ""One Flew Over the Cuckoo's Nest (1975)"", 'Annie Hall (1977)', 'Speed (1994)']",0,0,0.0,0.9875,0.9895,0.9974
+158,"['Prisoner of the Mountains (Kavkazsky Plennik) (1996)', 'Nixon (1995)', 'Murder in the First (1995)', 'Executive Decision (1996)', 'Englishman Who Went Up a Hill']",0,0,0.0,0.9631,0.9992,0.9974
+159,"['Midnight in the Garden of Good and Evil (1997)', 'Ace Ventura: When Nature Calls (1995)', 'Some Folks Call It a Sling Blade (1993)', 'Infinity (1996)', 'Line King: Al Hirschfeld']",0,1,0.6309,1.0,0.9984,0.9974
+160,"['Heat (1995)', 'Passion Fish (1992)', 'Nil By Mouth (1997)', 'MURDER and murder (1996)', 'Farinelli: il castrato (1994)']",1,1,1.0,1.0,0.9984,0.9974
+161,"['Return of the Jedi (1983)', 'Reality Bites (1994)', 'Paths of Glory (1957)', 'Quick and the Dead', 'The (1995)']",1,1,1.0,0.9383,0.9938,0.9974
+162,"['Devil in a Blue Dress (1995)', 'Batman & Robin (1997)', 'Keys to Tulsa (1997)', 'Prefontaine (1997)', 'Tank Girl (1995)']",0,1,0.6309,0.9332,1.0,0.9974
+163,"['When Harry Met Sally...', 'The Horse Whisperer', 'Bastard Out of Carolina', 'The Postman', 'Mina Tannenbaum']",0,0,0.0,0.975,1.0,0.9974
+164,"['Mother Night (1996)', 'Swimming with Sharks (1995)', 'Dead Man Walking (1995)', 'Operation Dumbo Drop (1995)', 'Nutty Professor']",0,0,0.0,0.9571,0.9962,0.9974
+165,"[""Sophie's Choice (1982)"", 'The Maltese Falcon (1941)', 'Scream (1996)', 'Contact (1997)', 'Phenomenon (1996)']",0,1,0.5,0.9667,0.9955,0.9974
+166,"['U.S. Marshalls (1998)', 'Liar Liar (1997)', 'Best Men (1997)', 'Carried Away (1996)', '8 Heads in a Duffel Bag (1997)']",0,1,0.6309,0.9514,0.997,0.9974
+167,"['Shawshank Redemption', 'The (1994)', 'Indiana Jones and the Last Crusade (1989)', 'Vertigo (1958)', 'Cosi (1996)']",0,0,0.0,0.9875,0.9961,0.9974
+168,"[""What's Eating Gilbert Grape (1993)"", 'City of Angels (1998)', 'Rear Window (1954)', 'Unforgettable (1996)', ""Dante's Peak (1997)""]",0,1,0.3869,1.0,0.9971,0.9974
+169,"['A Room with a View', 'Raiders of the Lost Ark', 'A Thousand Acres', 'Out to Sea', 'For Whom the Bell Tolls']",0,0,0.0,0.9722,1.0,0.9974
+170,"['Rosewood (1997)', 'Outbreak (1995)', 'The Remains of the Day (1993)', 'A Good Man in Africa (1994)', 'The Substance of Fire (1996)']",1,1,1.0,0.975,0.9985,0.9974
+171,"['To Live (Huozhe) (1994)', 'Germinal (1993)', 'Being There (1979)', 'Sabrina (1954)', ""Devil's Own""]",0,0,0.0,1.0,0.9978,0.9974
+172,"['12 Angry Men (1957)', 'The Amityville Horror (1979)', 'The White Balloon (1995)', 'The Invitation (Zaproszenie) (1986)', 'Tank Girl (1995)']",1,1,1.0,0.9405,0.9986,0.9974
+173,"['Star Maps (1997)', 'Don Juan DeMarco (1995)', 'The House of the Spirits (1993)', 'Welcome to the Dollhouse (1995)', 'Higher Learning (1995)']",1,1,1.0,0.9454,0.9979,0.9974
+174,"['It Could Happen to You', 'Apollo 13', 'Last Summer in the Hamptons', 'Caught', 'Lawrence of Arabia']",0,0,0.0,1.0,1.0,0.9974
+175,"[""One Flew Over the Cuckoo's Nest (1975)"", '12 Angry Men (1957)', 'Sleepless in Seattle (1993)', 'Jean de Florette (1986)', 'Top Hat (1935)']",0,1,0.5,1.0,0.9958,0.9974
+176,"['Fargo (1996)', 'Friday (1995)', 'Delta of Venus (1994)', 'Son in Law (1993)', 'American in Paris']",1,1,1.0,0.9833,0.9993,0.9974
+177,"['Evita (1996)', 'That Thing You Do! (1996)', 'One Night Stand (1997)', 'Ready to Wear (Pret-A-Porter) (1994)', 'Infinity (1996)']",1,1,1.0,0.9333,0.9979,0.9974
+178,"['True Romance (1993)', 'In & Out (1997)', 'Sgt. Bilko (1996)', ""White Man's Burden (1995)"", 'Last Summer in the Hamptons (1995)']",1,1,1.0,0.9778,0.9993,0.9974
+179,"['As Good As It Gets (1997)', 'The Ghost and the Darkness (1996)', 'Bent (1997)', ""Muriel's Wedding (1994)"", 'Tomorrow Never Dies (1997)']",1,1,1.0,0.9508,0.9952,0.9974
+180,"['Braveheart (1995)', 'Back to the Future (1985)', 'The First Wives Club (1996)', 'Love Jones (1997)', 'Deceiver (1997)']",0,1,0.6309,0.9639,0.9986,0.9974
+181,"['Soul Food (1997)', 'The Sweet Hereafter (1997)', 'The War at Home (1996)', 'Fire on the Mountain (1996)', 'Sixth Man']",1,1,1.0,0.9333,0.9993,0.9974
+182,"['Shine (1996)', 'Forrest Gump (1994)', 'Lone Star (1996)', 'Hour of the Pig', 'The (1993)']",0,1,0.6309,0.955,0.9993,0.9974
+183,"['Dial M for Murder (1954)', 'East of Eden (1955)', 'Ransom (1996)', 'Losing Isaiah (1995)', 'Edge']",0,0,0.0,1.0,1.0,0.9974
+184,"['Ghost (1990)', 'Mrs. Brown (Her Majesty', 'Mrs. Brown) (1997)', 'Cat on a Hot Tin Roof (1958)', 'Ready to Wear (Pret-A-Porter) (1994)']",1,1,1.0,0.9833,0.9987,0.9974
+185,"['Pulp Fiction (1994)', 'Roman Holiday (1953)', 'Laura (1944)', ""Widows' Peak (1994)"", 'Mrs. Doubtfire (1993)']",0,1,0.4307,0.98,0.9993,0.9974
+186,"['Nikita (La Femme Nikita) (1990)', 'Mute Witness (1994)', 'Heavenly Creatures (1994)', ""Devil's Own"", 'Arrival']",0,0,0.0,0.98,0.998,0.9974
+187,"['Three Colors: Red (1994)', 'Monty Python and the Holy Grail (1974)', 'Mirror Has Two Faces', 'Eighth Day', 'Fantasia (1940)']",0,1,0.6309,1.0,0.9987,0.9974
+188,"[""One Flew Over the Cuckoo's Nest (1975)"", 'Dial M for Murder (1954)', 'Picnic (1955)', 'Fear (1996)', 'Spy Hard (1996)']",1,1,1.0,0.975,0.9968,0.9974
+189,"['To Kill a Mockingbird', 'Willy Wonka and the Chocolate Factory', 'Clueless', 'Hard Target', ""Fathers' Day""]",0,0,0.0,1.0,1.0,0.9974
+190,"['The People vs. Larry Flynt (1996)', 'L.A. Confidential (1997)', 'Fear', 'The (1995)', 'Kull the Conqueror (1997)']",0,0,0.0,0.9379,0.9929,0.9974
+191,"['The Birdcage (1996)', 'The Remains of the Day (1993)', 'The Horse Whisperer (1998)', 'The Sixth Man (1997)', 'Love Bug']",0,0,0.0,0.9131,0.9987,0.9974
+192,"['Mars Attacks!', ""The Preacher's Wife"", 'True Lies', 'Philadelphia', 'The Edge']",0,0,0.0,0.975,1.0,0.9974
+193,"['The Wedding Singer (1998)', 'The MatchMaker (1997)', 'The War at Home (1996)', 'White Squall (1996)', 'Legal Deceit (1997)']",0,0,0.0,0.9223,0.9994,0.9974
+194,"['Chinatown (1974)', 'Serial Mom (1994)', 'Eye of Vichy', 'The (Oeil de Vichy', ""L') (1993)""]",1,1,1.0,0.9833,0.9994,0.9974
+195,"['The Sound of Music (1965)', 'Little Women (1994)', ""It's a Wonderful Life (1946)"", ""What's Eating Gilbert Grape (1993)"", 'Terminator']",0,0,0.0,1.0,0.9994,0.9974
+196,"[""My Best Friend's Wedding (1997)"", 'Cold Comfort Farm (1995)', 'The Fifth Element (1997)', 'Target (1995)', 'Set It Off (1996)']",0,1,0.6309,0.9675,0.9994,0.9974
+197,"['Apocalypse Now (1979)', 'Mrs. Doubtfire (1993)', 'House of the Spirits', 'The (1993)', 'Career Girls (1997)']",0,0,0.0,0.955,0.9975,0.9974
+198,"['Good Will Hunting', 'Dazed and Confused', 'My Fair Lady', ""Antonia's Line"", ""Things to Do in Denver when You're Dead""]",0,0,0.0,1.0,1.0,0.9974
+199,"['One Fine Day (1996)', 'If Lucy Fell (1996)', 'Empire Strikes Back', 'The (1980)', 'Breaking the Waves (1996)']",0,1,0.3869,0.9371,0.9969,0.9974
+200,"['The Shawshank Redemption (1994)', 'Mrs. Dalloway (1997)', 'A Thousand Acres (1997)', 'Metro (1997)', 'The Hunchback of Notre Dame (1996)']",0,0,0.0,0.9272,0.9994,0.9974
+201,"['Fargo (1996)', 'Duoluo tianshi (1995)', 'Pretty Woman (1990)', 'Trial by Jury (1994)', 'Murder in the First (1995)']",1,1,1.0,0.9857,0.9958,0.9974
+202,"['Terminator 2: Judgment Day (1991)', 'Graduate', 'The (1967)', 'Air Force One (1997)', 'Frighteners']",1,1,1.0,1.0,1.0,0.9974
+203,"['Twelve Monkeys (1995)', 'Fearless (1993)', 'Visitors', 'The (Visiteurs', 'Les) (1993)']",1,1,1.0,0.9667,0.9994,0.9974
+204,"['The Rainmaker (1997)', 'Batman Forever (1995)', 'An American Werewolf in London (1981)', 'Highlander (1986)', 'The Manchurian Candidate (1962)']",0,0,0.0,0.9833,0.9994,0.9974
+205,"['The Truman Show (1998)', 'Scream (1996)', 'Evita (1996)', 'Nightwatch (1997)', 'Striptease (1996)']",0,1,0.5,0.9,0.997,0.9974
+206,"['Secrets & Lies (1996)', 'The House of Yes (1997)', 'Swingers (1996)', 'The Funeral (1996)', 'Careful (1992)']",0,0,0.0,0.924,0.9976,0.9974
+207,"['The Brady Bunch Movie', 'The (1995)', 'Gang Related (1997)', 'Amityville: Dollhouse (1996)', 'Rock']",0,0,0.0,0.98,0.9953,0.9974
+208,"['The Man in the Iron Mask (1998)', 'Somewhere in Time (1980)', 'The Mighty (1998)', 'Angel Baby (1995)', 'Georgia (1995)']",0,1,0.6309,0.9353,0.9988,0.9974
+209,"['As Good As It Gets (1997)', 'Kolya (1996)', 'Rosencrantz and Guildenstern Are Dead (1990)', 'The Rock (1996)', 'Locusts']",0,1,0.6309,0.975,0.9965,0.9974
+210,"['Little Women (1994)', 'Boys on the Side (1995)', 'Moonlight and Valentino (1995)', 'Butterfly Kiss (1995)', 'Vegas Vacation (1997)']",0,0,0.0,0.9565,0.9983,0.9974
+211,"['Ice Storm', 'The (1997)', 'Gattaca (1997)', 'Heavenly Creatures (1994)', 'Priest (1994)']",0,0,0.0,0.9417,0.9948,0.9974
+212,"['Apocalypse Now (1979)', 'Purple Noon (1960)', 'Laura (1944)', 'Home for the Holidays (1995)', 'The Man Who Knew Too Little (1997)']",1,1,1.0,0.9909,0.9989,0.9974
+213,"['Bonnie and Clyde (1967)', 'Austin Powers: International Man of Mystery (1997)', ""Bram Stoker's Dracula (1992)"", 'My Own Private Idaho (1991)', 'Spitfire Grill']",1,1,1.0,1.0,0.9994,0.9974
+214,"['Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)', 'Piano', 'The (1993)', 'Specialist', 'The (1994)']",0,0,0.0,0.9667,0.9949,0.9974
+215,"['Abyss', 'The (1989)', 'Star Kid (1997)', 'Tin Drum', 'The (Blechtrommel']",0,0,0.0,0.9667,1.0,0.9974
+216,"['Back to the Future (1985)', 'Nikita (La Femme Nikita) (1990)', ""What's Love Got to Do with It (1993)"", 'Gang Related (1997)', 'Associate']",1,1,1.0,0.9917,0.9972,0.9974
+217,"['Sudden Death (1995)', 'Top Gun (1986)', 'The Piano (1993)', 'Homage (1995)', 'Made in America (1993)']",1,1,1.0,0.9583,1.0,0.9974
+218,"['Annie Hall (1977)', 'Seven (Se7en) (1995)', 'The American President (1995)', 'No Escape (1994)', 'Pie in the Sky (1995)']",1,1,1.0,0.9405,0.9983,0.9974
+219,"[""Devil's Own"", 'Legal Deceit (1997)', 'Crossing Guard', 'The (1995)', 'Searching for Bobby Fischer (1993)']",0,0,0.0,1.0,0.992,0.9974
+220,"['Love! Valour! Compassion! (1997)', 'Fargo (1996)', 'Full Monty', 'The (1997)', 'Patton (1970)']",0,0,0.0,0.98,0.9915,0.9974
+221,"['Speed (1994)', 'My Own Private Idaho (1991)', 'In the Bleak Midwinter (1995)', 'Circle of Friends (1995)', 'Far From Home: The Adventures of Yellow Dog (1995)']",1,1,1.0,0.9527,0.9984,0.9974
+222,"['Home Alone (1990)', 'Naked Gun 33 1/3: The Final Insult (1994)', 'Picture Perfect (1997)', 'When Night Is Falling (1995)', 'Bitter Moon (1992)']",1,1,1.0,1.0,0.9995,0.9974
+223,"['Beautiful Girls (1996)', 'Breakdown (1997)', 'Steel (1997)', 'Playing God (1997)', 'Falling in Love Again (1980)']",0,1,0.6309,0.9167,0.9984,0.9974
+224,"['Immortal Beloved', 'Highlander III: The Sorcerer', 'The Women', 'Lord of Illusions', ""Singin' in the Rain""]",0,0,0.0,0.9457,1.0,0.9974
+225,"['Rear Window (1954)', 'Mission: Impossible (1996)', 'A Bronx Tale (1993)', 'Crimson Tide (1995)', 'Death and the Maiden (1994)']",1,1,1.0,1.0,0.9979,0.9974
+226,"['GoodFellas (1990)', 'Sting', 'The (1973)', 'Boys in Venice (1996)', 'Grace of My Heart (1996)']",1,1,1.0,0.9875,1.0,0.9974
+227,"['Sling Blade (1996)', 'Leaving Las Vegas (1995)', 'Soul Food (1997)', 'How to Make an American Quilt (1995)', 'Love and Death on Long Island (1997)']",0,1,0.6309,0.9789,0.9984,0.9974
+228,"['Star Trek IV: The Voyage Home (1986)', 'Die Hard: With a Vengeance (1995)', 'Beyond Rangoon (1995)', 'A Life Less Ordinary (1997)', 'Career Girls (1997)']",0,0,0.0,0.9632,0.9979,0.9974
+229,"['Air Force One (1997)', 'Set It Off (1996)', 'Van', 'The (1996)', 'Sabrina (1995)']",1,1,1.0,0.98,0.9925,0.9974
+230,"['Jaws (1975)', 'The First Wives Club (1996)', 'Broken Arrow (1996)', 'Judgment Night (1993)', 'Ghosts of Mississippi (1996)']",1,1,1.0,0.9565,0.999,0.9974
+231,"['Titanic (1997)', 'Gattaca (1997)', 'The People vs. Larry Flynt (1996)', 'Grace of My Heart (1996)', 'Bad Boys (1995)']",1,1,1.0,0.9567,0.9942,0.9974
+232,"['Mrs. Dalloway (1997)', 'Manon of the Spring (Manon des sources) (1986)', 'Young Frankenstein (1974)', 'Ballad of Narayama', 'The (Narayama Bushiko) (1958)']",0,1,0.6309,0.9809,0.9983,0.9974
+233,"['Return of the Jedi (1983)', 'Paths of Glory (1957)', 'Heathers (1989)', 'G.I. Jane (1997)', 'Apt Pupil (1998)']",0,0,0.0,0.9875,0.9973,0.9974
+234,"['Unforgiven (1992)', 'Germinal (1993)', 'Orlando (1993)', 'In the Mouth of Madness (1995)', 'Airheads (1994)']",0,0,0.0,0.9667,0.998,0.9974
+235,"['Some Like It Hot (1959)', 'Like Water For Chocolate (Como agua para chocolate) (1992)', 'Stranger', 'The (1994)', 'Caro Diario (Dear Diary) (1994)']",0,1,0.6309,0.9756,0.9964,0.9974
+236,"['Vertigo (1958)', 'Love in the Afternoon (1957)', 'City Hall (1996)', ""Gridlock'd (1997)"", 'House of Yes']",0,1,0.5,1.0,0.9995,0.9974
+237,"['The Crying Game (1992)', 'Fargo (1996)', 'Four Weddings and a Funeral (1994)', 'Before Sunrise (1995)', ""Mr. Holland's Opus (1995)""]",0,1,0.6309,0.9833,0.9965,0.9974
+238,"['Blues Brothers', 'The (1980)', 'Larger Than Life (1996)', 'Speed 2: Cruise Control (1997)', 'Body Snatchers (1993)']",0,0,0.0,1.0,0.999,0.9974
+239,"['Sunset Blvd. (1950)', ""Romy and Michele's High School Reunion (1997)"", 'Star Trek V: The Final Frontier (1989)', 'Poetic Justice (1993)', 'Grass Harp']",1,1,1.0,1.0,0.998,0.9974
+240,"['The Ice Storm (1997)', 'Dangerous Beauty (1998)', 'Kolya (1996)', 'Taxi Driver (1976)', 'Land and Freedom (Tierra y libertad) (1995)']",0,1,0.5,1.0,0.997,0.9974
+241,"['Chasing Amy (1997)', 'First Wives Club', 'Sleepless in Seattle (1993)', 'Pretty Woman (1990)', 'Spitfire Grill']",1,1,1.0,1.0,0.997,0.9974
+242,"['Prefontaine (1997)', 'People vs. Larry Flynt', 'The (1996)', 'Edge', 'The (1997)']",0,0,0.0,0.9333,0.9891,0.9974
+243,"['Babe (1995)', 'Dazed and Confused (1993)', 'Thirty-Two Short Films About Glenn Gould (1993)', 'Aristocats', 'The (1970)']",1,1,1.0,0.99,1.0,0.9974
+244,"[""Mr. Holland's Opus"", 'Ghosts of Mississippi', 'Losing Isaiah', 'Jade', 'Geronimo: An American Legend']",0,0,0.0,1.0,1.0,0.9974
+245,"['James and the Giant Peach (1996)', 'A Little Princess (1995)', 'Searching for Bobby Fischer (1993)', 'Fried Green Tomatoes (1991)', 'The People vs. Larry Flynt (1996)']",1,1,1.0,0.98,0.9961,0.9974
+246,"['Shadowlands (1993)', 'Just Cause (1995)', 'Hamlet (1996)', 'Bound (1996)', 'Night Flier (1997)']",0,1,0.5,0.9667,0.9985,0.9974
+247,"['Men in Black (1997)', 'Grosse Pointe Blank (1997)', 'Con Air (1997)', 'Deconstructing Harry (1997)', 'Primal Fear (1996)']",1,1,1.0,0.899,0.9981,0.9974
+248,"['Chinatown (1974)', 'Fish Called Wanda', 'A (1988)', 'Return of the Pink Panther', 'The (1974)']",0,0,0.0,0.95,0.9976,0.9974
+249,"['Short Cuts (1993)', 'Bridges of Madison County', 'Crossing Guard', 'Surviving the Game (1994)', 'La Vieille qui marchait dans la mer (1991)']",1,1,1.0,1.0,0.9976,0.9974
+250,"['Vanya on 42nd Street (1994)', 'So I Married an Axe Murderer (1993)', 'Mixed Nuts (1994)', 'Miracle on 34th Street (1994)', 'Tank Girl (1995)']",0,1,0.4307,0.9286,0.999,0.9974
+251,"['Jerry Maguire (1996)', 'Kingpin (1996)', 'Girl 6 (1996)', 'To Die For (1995)', 'Clockers (1995)']",1,1,1.0,0.91,1.0,0.9974
+252,"['Mrs. Parker and the Vicious Circle (1994)', 'Ridicule (1996)', 'Colonel Chabert', 'Le (1994)', 'Metisse (Café au Lait) (1993)']",0,1,0.6309,0.9875,0.9995,0.9974
+253,"['Paths of Glory (1957)', 'Bridge on the River Kwai', 'The (1957)', 'Jaws (1975)', 'Three Colors: White (1994)']",0,1,0.4307,0.9633,0.9966,0.9974
+254,"['The Silence of the Lambs (1991)', 'Leaving Las Vegas (1995)', 'Anaconda (1997)', 'Kundun (1997)', 'French Kiss (1995)']",0,0,0.0,0.95,0.9972,0.9974
+255,"['Halloween: The Curse of Michael Myers (1995)', 'Hard Rain (1998)', 'My Fellow Americans (1996)', ""Pharaoh's Army (1995)"", 'Magnificent Seven']",1,1,1.0,0.9889,1.0,0.9974
+256,"['Once Upon a Time in America (1984)', 'Pulp Fiction (1994)', ""What's Eating Gilbert Grape (1993)"", 'Immortal Beloved (1994)', 'Little Women (1994)']",0,0,0.0,0.94,0.9971,0.9974
+257,"['GoodFellas (1990)', 'Mother Night (1996)', ""Roseanna's Grave (For Roseanna) (1997)"", 'Deconstructing Harry (1997)', 'The Ghost and the Darkness (1996)']",0,1,0.4307,0.9714,0.9958,0.9974
+258,"['The Princess Bride (1987)', 'For Richer or Poorer (1997)', 'Fear', 'The (1995)', 'Ran (1985)']",0,1,0.6309,0.98,0.9948,0.9974
+259,"['Groundhog Day (1993)', 'Titanic (1997)', 'Afterglow (1997)', 'Sweet Hereafter', 'The (1997)']",0,1,0.6309,0.9,0.9917,0.9974
+260,"['That Old Feeling (1997)', 'Anastasia (1997)', 'American Werewolf in London', 'An (1981)', 'I Know What You Did Last Summer (1997)']",0,0,0.0,0.9598,0.9995,0.9974
+261,"['Scream (1996)', 'Fall (1997)', 'Halloween: The Curse of Michael Myers (1995)', 'Man Without a Face', 'The (1993)']",1,1,1.0,0.9875,0.995,0.9974
+262,"['Terminator 2: Judgment Day (1991)', 'Balto (1995)', 'Gigi (1958)', 'Year of the Horse (1997)', 'Safe (1995)']",1,1,1.0,0.9667,0.9991,0.9974
+263,"['Jerry Maguire (1996)', 'Beautiful Girls (1996)', 'The Three Musketeers (1993)', 'Geronimo: An American Legend (1993)', 'Wild Bill (1995)']",1,1,1.0,0.9675,0.9982,0.9974
+264,"['Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)', 'When We Were Kings (1996)', 'Clear and Present Danger (1994)', 'Barcelona (1994)', 'Aparajito (1956)']",0,1,0.4307,0.9833,0.9996,0.9974
+265,"['Ransom (1996)', 'Hard Eight (1996)', 'Jungle2Jungle (1997)', 'Original Gangstas (1996)', 'Sudden Manhattan (1996)']",1,1,1.0,0.865,0.9987,0.9974
+266,"['Emma (1996)', ""I'm Not Rappaport (1996)"", 'Loch Ness (1995)', 'Ruby in Paradise (1993)', 'Hear My Song (1991)']",1,1,1.0,0.98,0.9973,0.9974
+267,"['Con Air (1997)', 'A Clockwork Orange (1971)', 'Annie Hall (1977)', 'Thinner (1996)', 'Secret of Roan Inish']",0,0,0.0,1.0,0.9964,0.9974
+268,"['Queen Margot (Reine Margot', 'La) (1994)', 'A Thousand Acres (1997)', 'The Good', 'The Bad and The Ugly (1966)']",0,0,0.0,0.9833,0.9981,0.9974
+269,"['Ice Storm', 'The (1997)', 'Legends of the Fall (1994)', 'Twelfth Night (1996)', 'Ready to Wear (Pret-A-Porter) (1994)']",0,1,0.5,0.9722,0.9933,0.9974
+270,"['Terminator 2: Judgment Day (1991)', 'Mission: Impossible (1996)', 'Anna Karenina (1997)', 'The Cowboy Way (1994)', 'B. Monkey (1998)']",0,0,0.0,1.0,0.9982,0.9974
+271,"['Chinatown (1974)', 'Oscar & Lucinda (1997)', 'Nina Takes a Lover (1994)', 'Up Close and Personal (1996)', 'Wild Bill (1995)']",1,1,1.0,1.0,0.9983,0.9974
+272,"['Casablanca (1942)', 'Boys on the Side (1995)', 'Prophecy', 'The (1995)', 'Silence of the Palace']",1,1,1.0,0.9275,0.9943,0.9974
+273,"[""Antonia's Line (1995)"", 'Temptress Moon (Feng Yue) (1996)', 'Richard III (1995)', 'Grass Harp', 'The (1995)']",0,0,0.0,0.93,0.9934,0.9974
+274,"['That Thing You Do! (1996)', 'Wedding Singer', 'The (1998)', 'With Honors (1994)', 'Incognito (1997)']",1,1,1.0,1.0,0.9964,0.9974
+275,"['Seven (Se7en) (1995)', 'Dead Poets Society (1989)', 'Tomorrow Never Dies (1997)', 'The Great Race (1965)', 'Fantasia (1940)']",0,1,0.3869,1.0,0.9974,0.9974
+276,"['Scream (1996)', 'Total Eclipse (1995)', ""Mr. Holland's Opus (1995)"", 'Assassins (1995)', 'Scout']",1,1,1.0,0.9383,0.9957,0.9974
